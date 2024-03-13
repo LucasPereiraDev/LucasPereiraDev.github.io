@@ -24,6 +24,7 @@
 }
 .footer-contato li a {
   color: #ffff;
+  text-decoration: none;
 }
 .footer-copy {
   font-size: 1.125 rem;
