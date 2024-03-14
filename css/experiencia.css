@@ -43,8 +43,6 @@
   position: absolute;
   left: -100px;
   top: 21px;
-  width: 80px;
-  text-align: right;
   color: #525252;
   font-size: 0.875rem;
 }
@@ -57,13 +55,6 @@
   color: #000;
   text-decoration: none;
   border: 2px solid #ffffff00;
-  border-radius: 4px;
-  padding: 2px 4px;
-}
-.empresa-titulo a:hover {
-  color: #000;
-  text-decoration: none;
-  border: 2px solid #003e9b;
   border-radius: 4px;
   padding: 2px 4px;
 }
