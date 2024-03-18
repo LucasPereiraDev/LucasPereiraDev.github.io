@@ -2,11 +2,14 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: 'Fira Sans', Arial, sans-serif;
+  font-family: "Fira Sans", Arial, sans-serif;
   margin: 0px;
   color: black;
 }
-h1, h2, h3, p {
+h1,
+h2,
+h3,
+p {
   margin: 0px;
 }
 ul {
@@ -26,7 +29,7 @@ img {
   word-break: break-all;
   max-width: 4ch;
 }
-@media (max-width:800px) {
+@media (max-width: 800px) {
   .subtitulo {
     font-size: 3rem;
     text-transform: capitalize;
